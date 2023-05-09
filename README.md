@@ -1,11 +1,8 @@
 
-Desculpe pelo erro anterior, segue abaixo o README completo:
-
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Implementação de atualizações de software e segurança</title>
 	</head>
 	<body>
 		<h1>Implementação de atualizações de software e segurança</h1>
